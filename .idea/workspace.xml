@@ -2,10 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="11818ccb-9e46-4586-987e-43b10b55542c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/edu/uco/uconotas/controller/TipoDocumentoController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/edu/uco/uconotas/repository/TipoDocumentoRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/edu/uco/uconotas/service/tipoDocumento/TipoDocumentoService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/edu/uco/uconotas/service/tipoDocumento/impl/TipoDocumentoServiceImpl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -86,6 +82,8 @@
       <workItem from="1571335203806" duration="6000" />
       <workItem from="1571335264983" duration="13000" />
       <workItem from="1571343084703" duration="824000" />
+      <workItem from="1571358019246" duration="74000" />
+      <workItem from="1571438396700" duration="2147000" />
     </task>
     <servers />
   </component>
@@ -104,5 +102,16 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/co/edu/uco/uconotas/controller/PersonaController.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
