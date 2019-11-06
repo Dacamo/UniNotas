@@ -3,6 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="11818ccb-9e46-4586-987e-43b10b55542c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/edu/uco/uconotas/controller/PersonaController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/edu/uco/uconotas/controller/PersonaController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/edu/uco/uconotas/repository/PersonaRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/edu/uco/uconotas/repository/PersonaRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/edu/uco/uconotas/repository/TipoDocumentoRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/edu/uco/uconotas/repository/TipoDocumentoRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/edu/uco/uconotas/service/persona/PersonaService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/edu/uco/uconotas/service/persona/PersonaService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/edu/uco/uconotas/service/persona/impl/PersonaServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/edu/uco/uconotas/service/persona/impl/PersonaServiceImpl.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -33,9 +38,10 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../AFND a un AFD/AFND a un AFD" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunDashboard">
@@ -83,7 +89,16 @@
       <workItem from="1571335264983" duration="13000" />
       <workItem from="1571343084703" duration="824000" />
       <workItem from="1571358019246" duration="74000" />
-      <workItem from="1571438396700" duration="2147000" />
+      <workItem from="1571438396700" duration="2802000" />
+      <workItem from="1571976358377" duration="2287000" />
+      <workItem from="1572014825042" duration="1223000" />
+      <workItem from="1572029495834" duration="645000" />
+      <workItem from="1572034407885" duration="6003000" />
+      <workItem from="1572052153905" duration="689000" />
+      <workItem from="1572647030018" duration="559000" />
+      <workItem from="1572647804857" duration="4437000" />
+      <workItem from="1572924165552" duration="4395000" />
+      <workItem from="1573013989705" duration="4240000" />
     </task>
     <servers />
   </component>
@@ -107,9 +122,9 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/co/edu/uco/uconotas/controller/PersonaController.java</url>
-          <line>29</line>
-          <option name="timeStamp" value="3" />
+          <url>file://$PROJECT_DIR$/src/main/java/co/edu/uco/uconotas/service/persona/impl/PersonaServiceImpl.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="12" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

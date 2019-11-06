@@ -38,5 +38,12 @@ public class PersonaController {
         personaService.save(personaEntity);
     }
 
-
+    @GetMapping("Search/{id}/{NroDocumento}")
+    public List<PersonaEntity> findByNroDocumentoAndTipoDocumentoIdentidad(
+            @PathVariable(value = "id", required = true) Integer Id,
+            @PathVariable(value = "NroDocumento", required = true) String NroDocumento
+            
+    ){
+        return personaService.findByTipoDocumentoIdentidad(Id, NroDocumento);
+    }
 }
