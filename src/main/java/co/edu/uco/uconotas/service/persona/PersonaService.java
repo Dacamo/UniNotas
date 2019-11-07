@@ -15,6 +15,6 @@ public interface PersonaService {
 
     void save(PersonaEntity personaEntity);
 
-    List<PersonaEntity> findByTipoDocumentoIdentidad(Integer id, String nroDocumento);
+    List<PersonaEntity> findByNroDocumentoAndTipoDocumentoIdentidad(Integer id, String nroDocumento);
 
 }

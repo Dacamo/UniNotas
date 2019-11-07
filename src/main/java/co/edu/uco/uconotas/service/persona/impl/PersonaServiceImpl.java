@@ -40,7 +40,7 @@ public class PersonaServiceImpl implements PersonaService {
     }
 
     @Override
-    public List<PersonaEntity> findByTipoDocumentoIdentidad(Integer Id, String NroDocumento) {
+    public List<PersonaEntity> findByNroDocumentoAndTipoDocumentoIdentidad(Integer Id, String NroDocumento) {
         TipoDocumentoIdentidadEntity documento = tipoDocumentoRepository.findById(Id).orElse(null);
 
         return personaRepository.findByTipoDocumentoIdentidadAndNroDocumento(documento, NroDocumento);

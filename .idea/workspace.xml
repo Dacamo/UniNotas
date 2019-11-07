@@ -3,9 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="11818ccb-9e46-4586-987e-43b10b55542c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/co/edu/uco/uconotas/controller/PersonaController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/edu/uco/uconotas/controller/PersonaController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/co/edu/uco/uconotas/repository/PersonaRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/edu/uco/uconotas/repository/PersonaRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/co/edu/uco/uconotas/repository/TipoDocumentoRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/edu/uco/uconotas/repository/TipoDocumentoRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/edu/uco/uconotas/config/Swagger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/edu/uco/uconotas/config/Swagger.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/co/edu/uco/uconotas/service/persona/PersonaService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/edu/uco/uconotas/service/persona/PersonaService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/co/edu/uco/uconotas/service/persona/impl/PersonaServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/edu/uco/uconotas/service/persona/impl/PersonaServiceImpl.java" afterDir="false" />
     </list>
@@ -98,7 +96,10 @@
       <workItem from="1572647030018" duration="559000" />
       <workItem from="1572647804857" duration="4437000" />
       <workItem from="1572924165552" duration="4395000" />
-      <workItem from="1573013989705" duration="4240000" />
+      <workItem from="1573013989705" duration="4941000" />
+      <workItem from="1573061141079" duration="2118000" />
+      <workItem from="1573098734142" duration="2008000" />
+      <workItem from="1573136102456" duration="5563000" />
     </task>
     <servers />
   </component>
@@ -117,16 +118,5 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/co/edu/uco/uconotas/service/persona/impl/PersonaServiceImpl.java</url>
-          <line>45</line>
-          <option name="timeStamp" value="12" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
